@@ -1,0 +1,7 @@
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\bin\Debug\Modulzaro.exe.config
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\bin\Debug\Modulzaro.exe
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\bin\Debug\Modulzaro.pdb
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\obj\Debug\Modulzaro.csprojAssemblyReference.cache
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\obj\Debug\Modulzaro.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\obj\Debug\Modulzaro.exe
+C:\Users\Felhasználó\source\repos\Modulzaro\Modulzaro\obj\Debug\Modulzaro.pdb
